@@ -413,6 +413,7 @@ html {
     display: none;
 }
 
+
 .modal.open {
     display: flex;
 }
