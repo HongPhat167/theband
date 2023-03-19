@@ -45,7 +45,7 @@
 }
 
 /* mobile */
-@media (max-width: 740px) {
+@media (max-width: 46.25em) {
     .s-full-width,
     .s-col-full {
         width: 100% !important;
